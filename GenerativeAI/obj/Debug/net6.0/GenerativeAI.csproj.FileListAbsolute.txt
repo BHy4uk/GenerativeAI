@@ -1,0 +1,15 @@
+C:\Users\ineche\source\repos\GenerativeAI\GenerativeAI\bin\Debug\net6.0\GenerativeAI.exe
+C:\Users\ineche\source\repos\GenerativeAI\GenerativeAI\bin\Debug\net6.0\GenerativeAI.deps.json
+C:\Users\ineche\source\repos\GenerativeAI\GenerativeAI\bin\Debug\net6.0\GenerativeAI.runtimeconfig.json
+C:\Users\ineche\source\repos\GenerativeAI\GenerativeAI\bin\Debug\net6.0\GenerativeAI.dll
+C:\Users\ineche\source\repos\GenerativeAI\GenerativeAI\bin\Debug\net6.0\GenerativeAI.pdb
+C:\Users\ineche\source\repos\GenerativeAI\GenerativeAI\obj\Debug\net6.0\GenerativeAI.csproj.AssemblyReference.cache
+C:\Users\ineche\source\repos\GenerativeAI\GenerativeAI\obj\Debug\net6.0\GenerativeAI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ineche\source\repos\GenerativeAI\GenerativeAI\obj\Debug\net6.0\GenerativeAI.AssemblyInfoInputs.cache
+C:\Users\ineche\source\repos\GenerativeAI\GenerativeAI\obj\Debug\net6.0\GenerativeAI.AssemblyInfo.cs
+C:\Users\ineche\source\repos\GenerativeAI\GenerativeAI\obj\Debug\net6.0\GenerativeAI.csproj.CoreCompileInputs.cache
+C:\Users\ineche\source\repos\GenerativeAI\GenerativeAI\obj\Debug\net6.0\GenerativeAI.dll
+C:\Users\ineche\source\repos\GenerativeAI\GenerativeAI\obj\Debug\net6.0\refint\GenerativeAI.dll
+C:\Users\ineche\source\repos\GenerativeAI\GenerativeAI\obj\Debug\net6.0\GenerativeAI.pdb
+C:\Users\ineche\source\repos\GenerativeAI\GenerativeAI\obj\Debug\net6.0\GenerativeAI.genruntimeconfig.cache
+C:\Users\ineche\source\repos\GenerativeAI\GenerativeAI\obj\Debug\net6.0\ref\GenerativeAI.dll
